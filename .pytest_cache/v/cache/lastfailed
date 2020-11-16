@@ -1,0 +1,8 @@
+{
+  "exercises/05-User-Inputed-Values/test.py::test_t[[\"10\"]]": true,
+  "exercises/05-User-Inputed-Values/test.py::test_t[[]]": true,
+  "exercises/08.1-How-Much-The-Wedding-Costs/test.py::test__between_100_and_200[execute_app]": true,
+  "exercises/08.1-How-Much-The-Wedding-Costs/test.py::test_between_101_and_51[execute_app]": true,
+  "exercises/15-Your-First-Loop/test.py::test_for_file_output": true,
+  "exercises/22-Bottles-Of-Milk/test.py::test_for_function_output": true
+}
